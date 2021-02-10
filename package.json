@@ -1,0 +1,25 @@
+{
+  "name": "example-heroku-app",
+  "version": "0.0.1",
+  "description": "Heroku app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajput9piyush/Example-for-heroku-server.git"
+  },
+  "keywords": [
+    "example-heroku"
+  ],
+  "author": "Team-E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajput9piyush/Example-for-heroku-server/issues"
+  },
+  "homepage": "https://github.com/rajput9piyush/Example-for-heroku-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
